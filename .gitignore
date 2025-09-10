@@ -1,5 +1,4 @@
-!docs/**/linded_list.assets/
-!docs/**/linded_list.assets/*.png
+.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
